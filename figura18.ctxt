@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=figura18
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ figura18\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nx1\ ny1\ nx2\ ny2
+comment1.target=figura18(int,\ int,\ int,\ int)
+comment2.params=nx1\ ny1\ ancho\ altura
+comment2.target=void\ inicializar(int,\ int,\ int,\ int)
+comment3.params=np
+comment3.target=void\ moverizquierda(int)
+comment4.params=np
+comment4.target=void\ moverderecha(int)
+comment5.params=np
+comment5.target=void\ moverabajo(int)
+comment6.params=
+comment6.target=void\ rotar()
+numComments=7

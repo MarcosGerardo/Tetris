@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyCanvasP
+comment1.params=
+comment1.target=MyCanvasP()
+comment2.params=nx\ ny
+comment2.target=MyCanvasP(int,\ int)
+comment3.params=c
+comment3.target=void\ setColor(java.awt.Color)
+comment4.params=nx
+comment4.target=void\ moverderecha(int)
+comment5.params=nx
+comment5.target=void\ moverizquierda(int)
+comment6.params=nx
+comment6.target=void\ moverarriba(int)
+comment7.params=nx
+comment7.target=void\ moverabajo(int)
+comment8.params=g
+comment8.target=void\ paint(java.awt.Graphics)
+numComments=9

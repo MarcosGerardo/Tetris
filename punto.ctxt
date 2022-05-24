@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=punto
+comment1.params=
+comment1.target=punto()
+comment2.params=nx\ ny
+comment2.target=punto(int,\ int)
+comment3.params=nx\ ny\ nc
+comment3.target=void\ inicializar(int,\ int,\ java.awt.Color)
+comment4.params=
+comment4.target=java.awt.Color\ dameColor()
+comment5.params=c
+comment5.target=void\ ponColor(java.awt.Color)
+comment6.params=
+comment6.target=void\ muestra()
+comment7.params=
+comment7.target=void\ oculta()
+comment8.params=npx\ npy
+comment8.target=void\ mueve(int,\ int)
+numComments=9

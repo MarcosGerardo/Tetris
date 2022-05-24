@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=figura7
+comment0.text=\r\nLa\ figura\ 7\ es\ \ \ 00\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 0000\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ 00\r\n
+comment1.params=nx1\ ny1\ nx2\ ny2
+comment1.target=figura7(int,\ int,\ int,\ int)
+comment2.params=nx1\ ny1\ ancho\ altura
+comment2.target=void\ inicializar(int,\ int,\ int,\ int)
+comment3.params=np
+comment3.target=void\ moverizquierda(int)
+comment4.params=np
+comment4.target=void\ moverderecha(int)
+comment5.params=np
+comment5.target=void\ moverabajo(int)
+comment6.params=
+comment6.target=void\ rotar()
+numComments=7

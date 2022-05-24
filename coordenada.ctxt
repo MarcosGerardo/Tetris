@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=coordenada
+comment1.params=
+comment1.target=coordenada()
+comment2.params=nx\ ny
+comment2.target=coordenada(int,\ int)
+comment3.params=nx\ ny
+comment3.target=void\ inicializar(int,\ int)
+comment4.params=
+comment4.target=int\ damex()
+comment5.params=
+comment5.target=int\ damey()
+numComments=6
